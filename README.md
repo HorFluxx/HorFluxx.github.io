@@ -1,1 +1,1 @@
-# mc.horfluxx.me:25565
+# horfluxx.me:25565
